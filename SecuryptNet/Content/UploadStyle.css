@@ -1,0 +1,16 @@
+﻿.dropzone {
+    width: 300px;
+    height: 300px;
+    border: 2px dashed #ccc;
+    color: #ccc;
+    text-align: center;
+    line-height: 300px;
+}
+
+.active-drop {
+    background: #77bafa !important;
+    border: solid 2px blue !important;
+    opacity: .5;
+    color: black !important;
+}
+
