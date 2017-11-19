@@ -222,4 +222,3 @@ C:\Users\Michael\Documents\Visual Studio 2017\Projects\SecuryptNet\SecuryptNet\b
 C:\Users\Michael\Documents\Visual Studio 2017\Projects\SecuryptNet\SecuryptNet\bin\Microsoft.AI.Web.xml
 C:\Users\Michael\Documents\Visual Studio 2017\Projects\SecuryptNet\SecuryptNet\obj\Debug\SecuryptNet.dll
 C:\Users\Michael\Documents\Visual Studio 2017\Projects\SecuryptNet\SecuryptNet\obj\Debug\SecuryptNet.pdb
-C:\Users\Michael\Documents\Visual Studio 2017\Projects\SecuryptNet\SecuryptNet\obj\Debug\SecuryptNet.csprojResolveAssemblyReference.cache
